@@ -1,2 +1,10 @@
 # MicrobialCommunity
 Roadmap from Microbial Communities to Individuality Modeling for 2 Anaerobic Digestion of Sewage Sludge
+
+Authors: Valeria Alvarado, Shu-Chien Hsu,* Zhuoying Wu, Huichuan Zhuang, Po-Heng Lee, and Jeremy Guest
+
+ABSTRACT: Biological models describing anaerobic digestion (AD) of sewage sludge have been widely applied to test various control and operation strategies. Anaerobic digestion model 1 (ADM1) provides a generic platform that includes the main processes of AD, excluding homoacetogenesis and the microbial structure. Homoacetogenic bacteria have been identified as important competitors for hydrogen consumption and acetate production. Although recent advances in meta-omics techniques have improved our characterization of AD microbial communities, conventional models treat functional groups as homogeneous and overlook the physiology and behavior of microbial individuality, limiting insights into mechanisms governing process performance. A novel microbial individuality model (MIM) that integrates kinetics, energetics, and agent-based modeling to describe a microbiome’s behavior as heterogenic populations, including homoacetogenesis, was developed. The MIM was validated with two datasets from previous studies through daily biogas production, methane content, compound concentrations, and microbial relative abundance changes. The MIM identified the emergence of Methanosaeta at low concentrations of acetate. Moreover, this simulation supports experimental studies confirming that the overlooked homoacetogenesis is an important hydrogen sink in AD. Validated MIMs are expected to provide insights into syntrophic and competitive interactions among microbiomes in AD systems while testing different operational parameters in a virtual environment. The MIM offers a methodological framework to other biological treatment systems and their microbial community dynamics.
+
+KEYWORDS: anaerobic digestion, agent-based model, microbial ecology, thermodynamics, kinetics
+
+Disclaimer: The code belongs to the authorship team and is uploaded by the requested of the corresponding author.
